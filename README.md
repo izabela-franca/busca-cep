@@ -1,9 +1,9 @@
 # Desafio 2 - Bootcamp TI Start da TI Academy.
-Webpage feita durante o Bootcamp TI Start para prática de HTML5 e CSS3. 
+Webpage feita durante o Bootcamp TI Start para prática de HTML5, CSS3 e JavaScript. 
 
 _____________________________________________________________________________
 
-Webpage created during a Bootcamp from TI Start to practice HTML5 and CSS3.
+Webpage created during a Bootcamp from TI Start to practice HTML5, CSS3 and JavaScript.
 
 _____________________________________________________________________________
 
