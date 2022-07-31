@@ -1,9 +1,9 @@
 # Desafio 2 - Bootcamp TI Start da TI Academy.
-Webpage para consulta de CEP feita durante o Bootcamp TI Start para prática de HTML5, CSS3 e JavaScript. 
+Webpage created during a Bootcamp from TI Start to practice HTML5, CSS3 and JavaScript.
 
 _____________________________________________________________________________
 
-Webpage created during a Bootcamp from TI Start to practice HTML5, CSS3 and JavaScript.
+Webpage para consulta de CEP feita durante o Bootcamp TI Start para prática de HTML5, CSS3 e JavaScript.
 
 _____________________________________________________________________________
 
