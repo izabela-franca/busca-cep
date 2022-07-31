@@ -7,7 +7,7 @@ Webpage created during a Bootcamp from TI Start to practice HTML5, CSS3 and Java
 
 _____________________________________________________________________________
 
-Link: https://izabela-franca.github.io/desafio2_TI_Academy/
+Link: https://izabela-franca.github.io/desafio2_ti_academy/
 
 _____________________________________________________________________________
 
