@@ -18,7 +18,7 @@ window.onload = function(){
             let dadosJson = await dadosFetch.json();
             resultadoCep(dadosJson);
         } catch(error){
-            alert('CEP inválido!');
+            alert(error);
             }
     } 
 }
