@@ -22,7 +22,7 @@ Olá, sejam bem-vindos(as)!
 
 ## 🚀 Tecnologias
 
-O projeto deste portfólio foi desenvolvido com as seguintes tecnologias:
+O projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML
 - CSS
